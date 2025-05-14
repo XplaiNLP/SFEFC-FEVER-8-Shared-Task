@@ -1,0 +1,1 @@
+Directory set as HF_HOME for models from huggingface
